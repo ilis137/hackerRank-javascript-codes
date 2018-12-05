@@ -1,0 +1,11 @@
+{
+  "name": "hackerrank-excersises",
+  "version": "1.0.0",
+  "description": "javascript code for hacker rank exersises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iliyas",
+  "license": "ISC"
+}
